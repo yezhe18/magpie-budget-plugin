@@ -1,0 +1,10 @@
+{
+  "name": "@noble/curves",
+  "version": "1.2.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulmillr/noble-curves.git"
+  },
+  "author": "Paul Miller (https://paulmillr.com)"
+}
