@@ -1,0 +1,14 @@
+{
+  "name": "@adraffy/ens-normalize",
+  "version": "1.10.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adraffy/ens-normalize.js.git"
+  },
+  "author": {
+    "name": "raffy.eth",
+    "email": "raffy@me.com",
+    "url": "http://raffy.antistupid.com"
+  }
+}

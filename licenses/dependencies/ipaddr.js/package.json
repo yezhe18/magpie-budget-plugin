@@ -1,0 +1,7 @@
+{
+  "name": "ipaddr.js",
+  "version": "1.9.1",
+  "license": "MIT",
+  "repository": "git://github.com/whitequark/ipaddr.js",
+  "author": "whitequark <whitequark@whitequark.org>"
+}

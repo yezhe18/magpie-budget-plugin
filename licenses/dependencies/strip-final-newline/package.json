@@ -1,0 +1,11 @@
+{
+  "name": "strip-final-newline",
+  "version": "3.0.0",
+  "license": "MIT",
+  "repository": "sindresorhus/strip-final-newline",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com"
+  }
+}

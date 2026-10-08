@@ -1,0 +1,11 @@
+{
+  "name": "get-stream",
+  "version": "6.0.1",
+  "license": "MIT",
+  "repository": "sindresorhus/get-stream",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com"
+  }
+}

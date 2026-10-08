@@ -1,0 +1,10 @@
+{
+  "name": "concat-stream",
+  "version": "2.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/maxogden/concat-stream.git"
+  },
+  "author": "Max Ogden <max@maxogden.com>"
+}

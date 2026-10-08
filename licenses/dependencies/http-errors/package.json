@@ -1,0 +1,11 @@
+{
+  "name": "http-errors",
+  "version": "2.0.1",
+  "license": "MIT",
+  "repository": "jshttp/http-errors",
+  "author": "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)",
+  "contributors": [
+    "Alan Plum <me@pluma.io>",
+    "Douglas Christopher Wilson <doug@somethingdoug.com>"
+  ]
+}

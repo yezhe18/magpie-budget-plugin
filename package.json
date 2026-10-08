@@ -1,0 +1,12 @@
+{
+  "name": "magpie-budget-plugin",
+  "version": "0.3.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "GPL-3.0-only",
+  "description": "Offline AntSeed, FreeLLMAPI and Kilo plugin for existing Magpie.",
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "dependencies": {}
+}

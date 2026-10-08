@@ -1,0 +1,7 @@
+{
+  "name": "finalhandler",
+  "version": "2.1.1",
+  "license": "MIT",
+  "repository": "pillarjs/finalhandler",
+  "author": "Douglas Christopher Wilson <doug@somethingdoug.com>"
+}

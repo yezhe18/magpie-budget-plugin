@@ -1,0 +1,10 @@
+{
+  "name": "util-deprecate",
+  "version": "1.0.2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TooTallNate/util-deprecate.git"
+  },
+  "author": "Nathan Rajlich <nathan@tootallnate.net> (http://n8.io/)"
+}

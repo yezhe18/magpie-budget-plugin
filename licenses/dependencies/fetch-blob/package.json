@@ -1,0 +1,7 @@
+{
+  "name": "fetch-blob",
+  "version": "3.2.0",
+  "license": "MIT",
+  "repository": "https://github.com/node-fetch/fetch-blob.git",
+  "author": "Jimmy W\u00e4rting <jimmy@warting.se> (https://jimmy.warting.se)"
+}

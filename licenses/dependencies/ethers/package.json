@@ -1,0 +1,10 @@
+{
+  "name": "ethers",
+  "version": "6.16.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ethers-io/ethers.js.git"
+  },
+  "author": "Richard Moore <me@ricmoo.com>"
+}

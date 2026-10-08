@@ -1,0 +1,11 @@
+{
+  "name": "@tanstack/query-core",
+  "version": "5.97.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanStack/query.git",
+    "directory": "packages/query-core"
+  },
+  "author": "tannerlinsley"
+}

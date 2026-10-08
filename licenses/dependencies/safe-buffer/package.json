@@ -1,0 +1,14 @@
+{
+  "name": "safe-buffer",
+  "version": "5.2.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/feross/safe-buffer.git"
+  },
+  "author": {
+    "name": "Feross Aboukhadijeh",
+    "email": "feross@feross.org",
+    "url": "https://feross.org"
+  }
+}

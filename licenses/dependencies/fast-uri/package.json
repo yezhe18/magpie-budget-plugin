@@ -1,0 +1,30 @@
+{
+  "name": "fast-uri",
+  "version": "3.1.8",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fastify/fast-uri.git"
+  },
+  "author": "Vincent Le Goff <vince.legoff@gmail.com> (https://github.com/zekth)",
+  "contributors": [
+    {
+      "name": "Matteo Collina",
+      "email": "hello@matteocollina.com"
+    },
+    {
+      "name": "G\u00fcrg\u00fcn Day\u0131o\u011flu",
+      "email": "hey@gurgun.day",
+      "url": "https://heyhey.to/G"
+    },
+    {
+      "name": "Aras Abbasi",
+      "email": "aras.abbasi@gmail.com"
+    },
+    {
+      "name": "Frazer Smith",
+      "email": "frazer.dev@icloud.com",
+      "url": "https://github.com/fdawgs"
+    }
+  ]
+}

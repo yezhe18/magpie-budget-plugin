@@ -1,0 +1,11 @@
+{
+  "name": "mime-db",
+  "version": "1.54.0",
+  "license": "MIT",
+  "repository": "jshttp/mime-db",
+  "contributors": [
+    "Douglas Christopher Wilson <doug@somethingdoug.com>",
+    "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)",
+    "Robert Kieffer <robert@broofa.com> (http://github.com/broofa)"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mimic-fn",
+  "version": "4.0.0",
+  "license": "MIT",
+  "repository": "sindresorhus/mimic-fn",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com"
+  }
+}

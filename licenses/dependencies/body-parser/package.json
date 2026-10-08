@@ -1,0 +1,10 @@
+{
+  "name": "body-parser",
+  "version": "2.3.0",
+  "license": "MIT",
+  "repository": "expressjs/body-parser",
+  "contributors": [
+    "Douglas Christopher Wilson <doug@somethingdoug.com>",
+    "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)"
+  ]
+}

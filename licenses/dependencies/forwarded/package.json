@@ -1,0 +1,9 @@
+{
+  "name": "forwarded",
+  "version": "0.2.0",
+  "license": "MIT",
+  "repository": "jshttp/forwarded",
+  "contributors": [
+    "Douglas Christopher Wilson <doug@somethingdoug.com>"
+  ]
+}

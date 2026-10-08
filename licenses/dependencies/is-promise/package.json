@@ -1,0 +1,10 @@
+{
+  "name": "is-promise",
+  "version": "4.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/then/is-promise.git"
+  },
+  "author": "ForbesLindesay"
+}

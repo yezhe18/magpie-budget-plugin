@@ -1,0 +1,11 @@
+{
+  "name": "path-key",
+  "version": "3.1.1",
+  "license": "MIT",
+  "repository": "sindresorhus/path-key",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  }
+}

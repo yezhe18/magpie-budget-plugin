@@ -1,0 +1,10 @@
+{
+  "name": "on-finished",
+  "version": "2.4.1",
+  "license": "MIT",
+  "repository": "jshttp/on-finished",
+  "contributors": [
+    "Douglas Christopher Wilson <doug@somethingdoug.com>",
+    "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)"
+  ]
+}

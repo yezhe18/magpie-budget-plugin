@@ -1,0 +1,10 @@
+{
+  "name": "es-define-property",
+  "version": "1.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljharb/es-define-property.git"
+  },
+  "author": "Jordan Harband <ljharb@gmail.com>"
+}

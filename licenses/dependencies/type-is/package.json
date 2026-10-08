@@ -1,0 +1,10 @@
+{
+  "name": "type-is",
+  "version": "2.1.0",
+  "license": "MIT",
+  "repository": "jshttp/type-is",
+  "contributors": [
+    "Douglas Christopher Wilson <doug@somethingdoug.com>",
+    "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)"
+  ]
+}

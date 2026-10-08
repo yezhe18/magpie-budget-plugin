@@ -1,0 +1,11 @@
+{
+  "name": "raw-body",
+  "version": "3.0.2",
+  "license": "MIT",
+  "repository": "stream-utils/raw-body",
+  "author": "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)",
+  "contributors": [
+    "Douglas Christopher Wilson <doug@somethingdoug.com>",
+    "Raynos <raynos2@gmail.com>"
+  ]
+}

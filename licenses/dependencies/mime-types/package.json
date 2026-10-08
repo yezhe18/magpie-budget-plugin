@@ -1,0 +1,11 @@
+{
+  "name": "mime-types",
+  "version": "3.0.2",
+  "license": "MIT",
+  "repository": "jshttp/mime-types",
+  "contributors": [
+    "Douglas Christopher Wilson <doug@somethingdoug.com>",
+    "Jeremiah Senkpiel <fishrock123@rocketmail.com> (https://searchbeam.jit.su)",
+    "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)"
+  ]
+}

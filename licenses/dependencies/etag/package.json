@@ -1,0 +1,10 @@
+{
+  "name": "etag",
+  "version": "1.8.1",
+  "license": "MIT",
+  "repository": "jshttp/etag",
+  "contributors": [
+    "Douglas Christopher Wilson <doug@somethingdoug.com>",
+    "David Bj\u00f6rklund <david.bjorklund@gmail.com>"
+  ]
+}

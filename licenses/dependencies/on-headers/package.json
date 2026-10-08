@@ -1,0 +1,7 @@
+{
+  "name": "on-headers",
+  "version": "1.0.2",
+  "license": "MIT",
+  "repository": "jshttp/on-headers",
+  "author": "Douglas Christopher Wilson <doug@somethingdoug.com>"
+}

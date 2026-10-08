@@ -1,0 +1,13 @@
+{
+  "name": "helmet",
+  "version": "8.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/helmetjs/helmet.git"
+  },
+  "author": "Adam Baldwin <adam@npmjs.com> (https://evilpacket.net)",
+  "contributors": [
+    "Evan Hahn <me@evanhahn.com> (https://evanhahn.com)"
+  ]
+}

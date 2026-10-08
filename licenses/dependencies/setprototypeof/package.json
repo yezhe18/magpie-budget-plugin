@@ -1,0 +1,10 @@
+{
+  "name": "setprototypeof",
+  "version": "1.2.0",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wesleytodd/setprototypeof.git"
+  },
+  "author": "Wes Todd"
+}

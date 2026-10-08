@@ -1,0 +1,10 @@
+{
+  "name": "signal-exit",
+  "version": "3.0.7",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tapjs/signal-exit.git"
+  },
+  "author": "Ben Coe <ben@npmjs.com>"
+}

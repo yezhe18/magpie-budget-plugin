@@ -1,0 +1,16 @@
+{
+  "name": "qs",
+  "version": "6.16.0",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ljharb/qs.git"
+  },
+  "contributors": [
+    {
+      "name": "Jordan Harband",
+      "email": "ljharb@gmail.com",
+      "url": "http://ljharb.codes"
+    }
+  ]
+}

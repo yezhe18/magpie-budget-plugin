@@ -1,0 +1,10 @@
+{
+  "name": "compression",
+  "version": "1.8.0",
+  "license": "MIT",
+  "repository": "expressjs/compression",
+  "contributors": [
+    "Douglas Christopher Wilson <doug@somethingdoug.com>",
+    "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)"
+  ]
+}

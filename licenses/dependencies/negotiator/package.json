@@ -1,0 +1,11 @@
+{
+  "name": "negotiator",
+  "version": "0.6.4",
+  "license": "MIT",
+  "repository": "jshttp/negotiator",
+  "contributors": [
+    "Douglas Christopher Wilson <doug@somethingdoug.com>",
+    "Federico Romero <federico.romero@outboxlabs.com>",
+    "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)"
+  ]
+}

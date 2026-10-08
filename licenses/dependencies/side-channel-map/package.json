@@ -1,0 +1,10 @@
+{
+  "name": "side-channel-map",
+  "version": "1.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljharb/side-channel-map.git"
+  },
+  "author": "Jordan Harband <ljharb@gmail.com>"
+}

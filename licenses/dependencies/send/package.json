@@ -1,0 +1,12 @@
+{
+  "name": "send",
+  "version": "1.2.1",
+  "license": "MIT",
+  "repository": "pillarjs/send",
+  "author": "TJ Holowaychuk <tj@vision-media.ca>",
+  "contributors": [
+    "Douglas Christopher Wilson <doug@somethingdoug.com>",
+    "James Wyatt Cready <jcready@gmail.com>",
+    "Jes\u00fas Legan\u00e9s Combarro <piranna@gmail.com>"
+  ]
+}

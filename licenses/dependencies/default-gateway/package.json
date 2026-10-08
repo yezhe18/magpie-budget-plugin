@@ -1,0 +1,7 @@
+{
+  "name": "default-gateway",
+  "version": "7.2.2",
+  "license": "BSD-2-Clause",
+  "repository": "silverwind/default-gateway",
+  "author": "silverwind"
+}

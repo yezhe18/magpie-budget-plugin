@@ -1,0 +1,13 @@
+{
+  "name": "socks",
+  "version": "2.8.10",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshGlazebrook/socks.git"
+  },
+  "author": "Josh Glazebrook",
+  "contributors": [
+    "castorw"
+  ]
+}

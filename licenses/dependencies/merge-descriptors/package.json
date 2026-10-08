@@ -1,0 +1,12 @@
+{
+  "name": "merge-descriptors",
+  "version": "2.0.0",
+  "license": "MIT",
+  "repository": "sindresorhus/merge-descriptors",
+  "contributors": [
+    "Jonathan Ong <me@jongleberry.com>",
+    "Douglas Christopher Wilson <doug@somethingdoug.com>",
+    "Mike Grabowski <grabbou@gmail.com>",
+    "Sindre Sorhus <sindresorhus@gmail.com>"
+  ]
+}

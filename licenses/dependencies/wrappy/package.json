@@ -1,0 +1,10 @@
+{
+  "name": "wrappy",
+  "version": "1.0.2",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/wrappy"
+  },
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)"
+}

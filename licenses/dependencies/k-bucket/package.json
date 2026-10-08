@@ -1,0 +1,22 @@
+{
+  "name": "k-bucket",
+  "version": "5.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tristanls/k-bucket.git"
+  },
+  "contributors": [
+    "Tristan Slominski <tristan.slominski@gmail.com>",
+    "Mike de Boer <info@mikedeboer.nl>",
+    "Conrad Pankoff <deoxxa@fknsrs.biz>",
+    "Feross Aboukhadijeh <feross@feross.org>",
+    "Nathan Hernandez <email@nathanph.com>",
+    "Fabien O'Carroll <fabien@allou.is>",
+    "Kirill Fomichev <fanatid@ya.ru>",
+    "Robert Kowalski <rok@kowalski.gd>",
+    "Nazar Mokrynskyi <nazar@mokrynskyi.com>",
+    "Jimmy W\u00e4rting <jimmy@warting.se>",
+    "Alex Potsides <alex@achingbrain.net>"
+  ]
+}

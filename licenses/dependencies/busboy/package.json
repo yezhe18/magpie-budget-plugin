@@ -1,0 +1,9 @@
+{
+  "name": "busboy",
+  "version": "1.6.0",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mscdex/busboy.git"
+  },
+  "author": "Brian White <mscdex@mscdex.net>"
+}

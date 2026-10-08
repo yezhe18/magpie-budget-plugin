@@ -1,0 +1,14 @@
+{
+  "name": "bittorrent-dht",
+  "version": "11.0.11",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/webtorrent/bittorrent-dht.git"
+  },
+  "author": {
+    "name": "WebTorrent LLC",
+    "email": "feross@webtorrent.io",
+    "url": "https://webtorrent.io"
+  }
+}

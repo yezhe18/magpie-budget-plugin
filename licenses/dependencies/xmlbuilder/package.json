@@ -1,0 +1,11 @@
+{
+  "name": "xmlbuilder",
+  "version": "11.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oozcitak/xmlbuilder-js.git"
+  },
+  "author": "Ozgur Ozcitak <oozcitak@gmail.com>",
+  "contributors": []
+}

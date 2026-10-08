@@ -1,0 +1,10 @@
+{
+  "name": "last-one-wins",
+  "version": "1.0.4",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/last-one-wins.git"
+  },
+  "author": "Mathias Buus (@mafintosh)"
+}

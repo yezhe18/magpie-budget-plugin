@@ -1,0 +1,10 @@
+{
+  "name": "cookie",
+  "version": "0.7.2",
+  "license": "MIT",
+  "repository": "jshttp/cookie",
+  "author": "Roman Shtylman <shtylman@gmail.com>",
+  "contributors": [
+    "Douglas Christopher Wilson <doug@somethingdoug.com>"
+  ]
+}

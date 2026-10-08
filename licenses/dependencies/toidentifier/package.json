@@ -1,0 +1,11 @@
+{
+  "name": "toidentifier",
+  "version": "1.0.1",
+  "license": "MIT",
+  "repository": "component/toidentifier",
+  "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
+  "contributors": [
+    "Douglas Christopher Wilson <doug@somethingdoug.com>",
+    "Nick Baugh <niftylettuce@gmail.com> (http://niftylettuce.com/)"
+  ]
+}

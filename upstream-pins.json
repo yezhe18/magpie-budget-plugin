@@ -1,0 +1,14 @@
+{
+  "AntSeed": {
+    "repository": "https://github.com/Antseed/antseed.git",
+    "commit": "9b82de69546157cf548188f1317a02a8ea053591"
+  },
+  "Magpie": {
+    "repository": "https://github.com/yetone/magpie.git",
+    "commit": "0bf9d77d3f1cd70eb6cd79023632cf3b41b19ebe"
+  },
+  "FreeLLMAPI": {
+    "repository": "https://github.com/tashfeenahmed/freellmapi.git",
+    "commit": "dbac4f3c07ac06c18f2dbdd241e1125667f47982"
+  }
+}

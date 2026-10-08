@@ -1,0 +1,7 @@
+{
+  "name": "depd",
+  "version": "2.0.0",
+  "license": "MIT",
+  "repository": "dougwilson/nodejs-depd",
+  "author": "Douglas Christopher Wilson <doug@somethingdoug.com>"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@silentbot1/nat-api",
+  "version": "0.4.9",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silentbot1/nat-api.git"
+  },
+  "author": {
+    "name": "SilentBot1",
+    "email": "silentbot1@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Alex",
+      "email": "alxmorais8@msn.com"
+    }
+  ]
+}

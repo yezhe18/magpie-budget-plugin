@@ -1,0 +1,9 @@
+{
+  "name": "streamsearch",
+  "version": "1.1.0",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mscdex/streamsearch.git"
+  },
+  "author": "Brian White <mscdex@mscdex.net>"
+}

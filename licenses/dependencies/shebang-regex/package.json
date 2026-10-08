@@ -1,0 +1,11 @@
+{
+  "name": "shebang-regex",
+  "version": "3.0.0",
+  "license": "MIT",
+  "repository": "sindresorhus/shebang-regex",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  }
+}

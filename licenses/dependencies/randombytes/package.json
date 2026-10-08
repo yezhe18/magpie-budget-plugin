@@ -1,0 +1,10 @@
+{
+  "name": "randombytes",
+  "version": "2.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:crypto-browserify/randombytes.git"
+  },
+  "author": ""
+}

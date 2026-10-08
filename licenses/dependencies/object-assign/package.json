@@ -1,0 +1,11 @@
+{
+  "name": "object-assign",
+  "version": "4.1.1",
+  "license": "MIT",
+  "repository": "sindresorhus/object-assign",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  }
+}

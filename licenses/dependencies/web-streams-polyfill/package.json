@@ -1,0 +1,13 @@
+{
+  "name": "web-streams-polyfill",
+  "version": "3.3.3",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattiasBuelens/web-streams-polyfill.git"
+  },
+  "author": "Mattias Buelens <mattias@buelens.com>",
+  "contributors": [
+    "Diwank Singh <diwank.singh@gmail.com>"
+  ]
+}

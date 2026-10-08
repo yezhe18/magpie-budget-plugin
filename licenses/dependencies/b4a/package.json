@@ -1,0 +1,10 @@
+{
+  "name": "b4a",
+  "version": "1.9.0",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holepunchto/b4a.git"
+  },
+  "author": "Holepunch"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "side-channel-weakmap",
+  "version": "1.0.2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljharb/side-channel-weakmap.git"
+  },
+  "author": "Jordan Harband <ljharb@gmail.com>"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "append-field",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/LinusU/node-append-field.git"
+  },
+  "author": "Linus Unneb\u00e4ck <linus@folkdatorn.se>"
+}

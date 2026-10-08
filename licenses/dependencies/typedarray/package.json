@@ -1,0 +1,14 @@
+{
+  "name": "typedarray",
+  "version": "0.0.6",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/typedarray.git"
+  },
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "es-errors",
+  "version": "1.3.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljharb/es-errors.git"
+  },
+  "author": "Jordan Harband <ljharb@gmail.com>"
+}

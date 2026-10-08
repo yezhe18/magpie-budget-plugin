@@ -1,0 +1,93 @@
+{
+  "name": "socks-proxy-agent",
+  "version": "10.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TooTallNate/proxy-agents.git",
+    "directory": "packages/socks-proxy-agent"
+  },
+  "author": {
+    "email": "nathan@tootallnate.net",
+    "name": "Nathan Rajlich",
+    "url": "http://n8.io/"
+  },
+  "contributors": [
+    {
+      "name": "Kiko Beats",
+      "email": "josefrancisco.verdu@gmail.com"
+    },
+    {
+      "name": "Josh Glazebrook",
+      "email": "josh@joshglazebrook.com"
+    },
+    {
+      "name": "talmobi",
+      "email": "talmobi@users.noreply.github.com"
+    },
+    {
+      "name": "Indospace.io",
+      "email": "justin@indospace.io"
+    },
+    {
+      "name": "Kilian von Pflugk",
+      "email": "github@jumoog.io"
+    },
+    {
+      "name": "Kyle",
+      "email": "admin@hk1229.cn"
+    },
+    {
+      "name": "Matheus Fernandes",
+      "email": "matheus.frndes@gmail.com"
+    },
+    {
+      "name": "Ricky Miller",
+      "email": "richardkazuomiller@gmail.com"
+    },
+    {
+      "name": "Shantanu Sharma",
+      "email": "shantanu34@outlook.com"
+    },
+    {
+      "name": "Tim Perry",
+      "email": "pimterry@gmail.com"
+    },
+    {
+      "name": "Vadim Baryshev",
+      "email": "vadimbaryshev@gmail.com"
+    },
+    {
+      "name": "jigu",
+      "email": "luo1257857309@gmail.com"
+    },
+    {
+      "name": "Alba Mendez",
+      "email": "me@jmendeth.com"
+    },
+    {
+      "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u0413\u0443\u0434\u0435\u043d\u043a\u043e\u0432",
+      "email": "Dimangud@rambler.ru"
+    },
+    {
+      "name": "Andrei Bitca",
+      "email": "63638922+andrei-bitca-dc@users.noreply.github.com"
+    },
+    {
+      "name": "Andrew Casey",
+      "email": "amcasey@users.noreply.github.com"
+    },
+    {
+      "name": "Brandon Ros",
+      "email": "brandonros1@gmail.com"
+    },
+    {
+      "name": "Dang Duy Thanh",
+      "email": "thanhdd.it@gmail.com"
+    },
+    {
+      "name": "Dimitar Nestorov",
+      "email": "8790386+dimitarnestorov@users.noreply.github.com"
+    }
+  ]
+}
