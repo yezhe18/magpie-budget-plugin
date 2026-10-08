@@ -1,0 +1,39 @@
+Bundled license information:
+
+web-streams-polyfill/dist/ponyfill.es2018.js:
+  /**
+   * @license
+   * web-streams-polyfill v3.3.3
+   * Copyright 2024 Mattias Buelens, Diwank Singh Tomer and other contributors.
+   * This code is released under the MIT license.
+   * SPDX-License-Identifier: MIT
+   */
+
+fetch-blob/index.js:
+  /*! fetch-blob. MIT License. Jimmy Wärting <https://jimmy.warting.se/opensource> */
+
+formdata-polyfill/esm.min.js:
+  /*! formdata-polyfill. MIT License. Jimmy Wärting <https://jimmy.warting.se/opensource> */
+
+node-domexception/index.js:
+  /*! node-domexception. MIT License. Jimmy Wärting <https://jimmy.warting.se/opensource> */
+
+sax/lib/sax.js:
+  /*! http://mths.be/fromcodepoint v0.1.0 by @mathias */
+
+@noble/hashes/esm/utils.js:
+  /*! noble-hashes - MIT License (c) 2022 Paul Miller (paulmillr.com) */
+
+@noble/curves/esm/abstract/utils.js:
+@noble/curves/esm/abstract/modular.js:
+@noble/curves/esm/abstract/curve.js:
+@noble/curves/esm/abstract/weierstrass.js:
+@noble/curves/esm/_shortw_utils.js:
+@noble/curves/esm/secp256k1.js:
+  /*! noble-curves - MIT License (c) 2022 Paul Miller (paulmillr.com) */
+
+aes-js/lib.esm/aes.js:
+  /*! MIT License. Copyright 2015-2022 Richard Moore <me@ricmoo.com>. See LICENSE.txt. */
+
+bittorrent-dht/index.js:
+  /*! bittorrent-dht. MIT License. WebTorrent LLC <https://webtorrent.io/opensource> */
